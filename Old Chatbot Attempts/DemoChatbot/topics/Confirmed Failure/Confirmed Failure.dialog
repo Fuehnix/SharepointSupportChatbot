@@ -1,0 +1,10 @@
+{
+  "$kind": "Microsoft.VirtualAgents.Topic",
+  "$designer": {
+    "name": "Confirmed Failure",
+    "description": "System Intent Confirmed Failure",
+    "link": "https://web.powerva.microsoft.com/environments/Default-e3de97cc-0223-40dd-9001-02e0292d8bd4/bots/990a8b8b-0c38-4e6b-b7ed-54ee20e1d79f/dialog/new_topic_990a8b8b0c384e6bb7ed54ee20e1d79f_d2198a5ee41a48a5bf70ab8970145a9f_confirmedfailure"
+  },
+  "id": "new_topic_990a8b8b0c384e6bb7ed54ee20e1d79f_d2198a5ee41a48a5bf70ab8970145a9f_confirmedfailure",
+  "isSystemTopic": true
+}

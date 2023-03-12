@@ -1,0 +1,10 @@
+{
+  "$kind": "Microsoft.VirtualAgents.Topic",
+  "$designer": {
+    "name": "Goodbye",
+    "description": "System Intent Goodbye",
+    "link": "https://web.powerva.microsoft.com/environments/Default-e3de97cc-0223-40dd-9001-02e0292d8bd4/bots/990a8b8b-0c38-4e6b-b7ed-54ee20e1d79f/dialog/new_topic_990a8b8b0c384e6bb7ed54ee20e1d79f_f56d1a3e522740c78f9fac0939332dbd_goodbye"
+  },
+  "id": "new_topic_990a8b8b0c384e6bb7ed54ee20e1d79f_f56d1a3e522740c78f9fac0939332dbd_goodbye",
+  "isSystemTopic": true
+}

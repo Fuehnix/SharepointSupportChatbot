@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "eY/1/hyacfELT8onjJAKcSL6CU9xNEa97K1bQVnSQ8Y=",
+  "Source": "EchoBot",
+  "BasePath": "_content/EchoBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EchoBot\\wwwroot",
+      "Source": "EchoBot",
+      "ContentRoot": "S:\\Jupyterstuff\\Projects\\SharepointSupportChatbot\\C#EchoBot\\wwwroot\\",
+      "BasePath": "_content/EchoBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "S:\\Jupyterstuff\\Projects\\SharepointSupportChatbot\\C#EchoBot\\wwwroot\\default.html",
+      "SourceId": "EchoBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "S:\\Jupyterstuff\\Projects\\SharepointSupportChatbot\\C#EchoBot\\wwwroot\\",
+      "BasePath": "_content/EchoBot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}
